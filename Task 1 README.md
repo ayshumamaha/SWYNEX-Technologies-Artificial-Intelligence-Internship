@@ -55,8 +55,5 @@ AI-Based-FAQ-Question-Answering-System/
 
 The FAQ dataset contains illustrative college-related information. It should be updated with verified institutional information before real-world use.
 
-## 8. Internship Details
-
-**Organization:** SWYNEX Technologies  
-**Domain:** Artificial Intelligence  
-**Task:** Task 1 – AI Use Case Definition and Prototype Documentation
+## Author
+M. Ayshwarya
